@@ -321,12 +321,15 @@ ul{
         display: block;
         cursor: pointer;
     }
+   
 }
 
 /* ---------------- Media Query for less than 600 screen siz -----  */
 
 @media only screen and (max-width: 600px){
-       .row{
+    
+    
+    .row{
         text-align: center;
        }
        .col-2, .col-3, .col-4{
@@ -346,6 +349,8 @@ ul{
        .cart-info p{
         font-size: 14px;
        }
+
+       
 }
 
  /*---------------- Products page--------------- */
